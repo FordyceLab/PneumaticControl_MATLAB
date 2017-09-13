@@ -10,8 +10,9 @@ To do so, add your Chip file name and valve state list and location to the ChipA
 
 A fully-setup MITOMI Chip is provided as an example. 
 
-#How to Setup Your Device in MATLAB: 
-o Make MatLab Program for Running Devices
+How to Setup Your Device in MATLAB: 
+
+Make MatLab Program for Running Devices
 
 
 1.	Go into your AutoCAD design, select all features, select “print” from the file menu, and select “Save as .eps”.
